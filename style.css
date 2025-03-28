@@ -9,6 +9,6 @@ form
 .phandau{color:pink;background-color:black;text-align:center;padding:20px}
 .thucdon{color:black;background-color:white;text-align:center;padding:;
 display:block}
-.thucdon a{color:black;background-color:white;}
+.thucdon a{color:black;background-color:white;display:block}
 .thucdon a:hover{color:white;background-color:black;}
 .noidung{color:pink;background-color:blue}
