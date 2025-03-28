@@ -10,5 +10,5 @@ form
 .thucdon{color:black;background-color:white; padding: 14px 15px;
 }
 .thucdon a{color:black;background-color:white; text-align:center;}
-.thucdon a:hover{color:white;background-color:black;}
+.thucdon a:hover{color:white;;display:block;background-color:black;}
 .noidung{color:pink;background-color:blue}
